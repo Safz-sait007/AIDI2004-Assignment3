@@ -6,14 +6,22 @@ In modern web applications, managing data efficiently is crucial for functionali
 
 ## Objective
 The goal of this project is to create a RESTful API using Flask to manage student records. The API should be able to:
+
 •	Create a new student entry.
+
 •	Retrieve all student records or a specific student by ID.
+
 •	Update an existing student record.
+
 •	Delete a student record.
 
 ## Technology Stack
 The following technologies and tools were used to develop the API:
+
 •	Backend: Flask (Python), Flask-SQLAlchemy
+
 •	Frontend: HTML, CSS, JavaScript
+
 •	Database: SQLite
+
 •	Tools: Postman (for API testing), VS Code (for development)
